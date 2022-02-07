@@ -7,6 +7,7 @@
  *
  * @returns {number}
  */
+
 function getMaxPairs(noOfWashes, cleanPile, dirtyPile) {
     let cleanArray = {};
     let dirtyArray = {};
